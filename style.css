@@ -54,6 +54,7 @@ input.search-bar {
     font-size: 105%;
     font-family: inherit;
     width: calc(100% - 100px);
+    text-transform: capitalize;
 }
 
 button:hover {
